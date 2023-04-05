@@ -6,7 +6,7 @@ Cara menjalankan script
   npm install
   npm install -g ts-node
   
-  isi KEY_OWNER & KEY_KORBAN dengan private key di file .env
+  isi SPONSOR_KEY & VICTIM_KEY dengan private key di file .env
   
   jalan scrip dengan perintah dibawah
   
