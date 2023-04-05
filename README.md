@@ -10,4 +10,4 @@ Cara menjalankan script
   
   jalan scrip dengan perinta dibawah
   
-  ts-node kirimtoken.ts
+  ts-node kirim-token.ts
