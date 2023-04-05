@@ -1,5 +1,5 @@
 # selamatkan-token-yang-dicuri
-srip untuk mengembalikan wallet yang ke hack
+scrip untuk mengembalikan wallet yang ke hack
 
 Cara menjalankan script
 
@@ -8,6 +8,6 @@ Cara menjalankan script
   
   isi KEY_OWNER & KEY_KORBAN dengan private key di file .env
   
-  jalan scrip dengan perinta dibawah
+  jalan scrip dengan perintah dibawah
   
   ts-node kirim-token.ts
